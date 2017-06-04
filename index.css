@@ -4,13 +4,19 @@ h1 {
     }
 body {
       border: 10px black solid;
-      margin = 0px;
+      margin: 0px;
       
       background-color: LightSeaGreen;
       text-align: center;
 }
 img {
       width:80%; 
+}
+
+#table {
+      width: 80%; 
+      border: 1px 
+      cellspacing: 0
 }
 
 #Pic2 {
