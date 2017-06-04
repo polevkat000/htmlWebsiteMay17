@@ -3,6 +3,7 @@ h1 {
       font-size: 32pt;
     }
 body {
+      border: 10px black solid;
       
       background-color: LightSeaGreen;
       text-align: center;
