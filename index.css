@@ -7,6 +7,9 @@ body {
       background-color: LightSeaGreen;
       text-align: center;
 }
+li {
+      text-align: left;
+}
 
 h3 {
       color: white;
