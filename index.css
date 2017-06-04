@@ -3,7 +3,9 @@ h1 {
       font-size: 32pt;
     }
 body {
-      background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiMuv3t9aLUAhUT82MKHc9VCH8QjRwIBw&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-10819949-stock-footage-animation-of-moving-up-water-bubbles-underwater-background-of-blue-clean-sea-or-ocean-underwater.html%3Fsrc%3Drel%2F7055392%3A0&psig=AFQjCNHtJOC5eL4TOuITGHoAVnmBGYBQLw&ust=1496622075039075")
+      
+      
+      background-image: ("OceanBackground1.jpg");
 }
 
 h3 {
