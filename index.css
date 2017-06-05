@@ -23,6 +23,9 @@ img {
 li {
       text-align: left;
 }
+#LearnMore, #ReadMore {
+      text-align: left;
+}
 
 h3 {
       color: white;
