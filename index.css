@@ -14,7 +14,7 @@ img {
 }
 
 #Pic2 {
-      width = 35%;
+      width: 35%;
 }
 
 #fastfacts {
@@ -32,6 +32,7 @@ h3 {
       color: white;
       text-align: left;
       margin: 7px;
+      font-style: MonotypeCorsiva; 
 }
 
 
