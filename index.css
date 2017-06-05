@@ -34,5 +34,11 @@ h3 {
       margin: 7px;
       font-family: "Comic Sans MS", cursive;
 }
+a: link {
+      color: blue;
+}
 
+a: visited {
+      color: purple;
+}
 
